@@ -1,5 +1,5 @@
 import './App.css';
-import './style.css'
+
 import Data from './Data';
 import Viewrecord from './Viewrecord';
 
